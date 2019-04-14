@@ -18,3 +18,18 @@ C:\Users\User\Desktop\gldani parki\GldaniParkConsole\obj\Debug\GldaniParkConsole
 C:\Users\User\Desktop\gldani parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\gldani parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.exe
 C:\Users\User\Desktop\gldani parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.pdb
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\GldaniParkConsole.exe.config
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\GldaniParkConsole.exe.manifest
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\GldaniParkConsole.application
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\GldaniParkConsole.exe
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\GldaniParkConsole.pdb
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\TestGldaniParkPos.exe
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\TestGldaniParkPos.pdb
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\bin\Debug\TestGldaniParkPos.exe.config
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.csprojAssemblyReference.cache
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.exe.manifest
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.application
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.csproj.CopyComplete
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.exe
+C:\Users\User\Desktop\gldani-parki\GldaniParkConsole\obj\Debug\GldaniParkConsole.pdb
